@@ -1,0 +1,31 @@
+_repo: Svenska-folk-sagor-och-afventyr-Forsta-delen-hafte-1-och-hafte-2_57357
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Stephens, George
+    gutenberg_agent_id: '49338'
+    url: http://www.gutenberg.org/2009/agents/49338
+  - agent_name: Hyltén-Cavallius, Gunnar Olof
+    gutenberg_agent_id: '49337'
+    url: http://www.gutenberg.org/2009/agents/49337
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2018-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57357'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Svenska folk-sagor och äfventyr
+
+  Första delen (häfte 1 och häfte 2)'
+url: http://www.gutenberg.org/ebooks/57357
